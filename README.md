@@ -1,5 +1,7 @@
 ## Koinx backend assignment
 
+### Deployed site link :  [https://celebrated-platypus-c0a648.netlify.app/]
+
 ### How to use locally?
 
 - Clone the repository
